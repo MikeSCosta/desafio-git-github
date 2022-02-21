@@ -9,12 +9,7 @@ O Git Bash é um terminal extendido para otimizar o uso do GIT.
 ### Principais Comandos do GIT
 
 Git add
-
 Git commit
-
 Git push
-
 Git status
-
 Git branch
-
